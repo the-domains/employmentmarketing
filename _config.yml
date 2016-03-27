@@ -1,0 +1,28 @@
+name: employmentmarketing
+favicon: null
+layout_spectrum: 0.8704006825573742
+typography_spectrum: 0.23253235104493797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.731685345293954
+  lightness: 0.1496991093736142
+  saturation: 0.08892955142073333
+  rhythmicContrast: 0.4170488764066249
+purpose: []
